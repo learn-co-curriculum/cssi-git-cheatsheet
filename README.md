@@ -16,3 +16,5 @@
 ## Update and Publish
 + `git push origin master` : Push the `master` branch to your `origin` remote repository
 + `git push <remote> <branch>` : Push the specified branch to the specified remote
+
+<a href='https://learn.co/lessons/cssi-git-cheatsheet' data-visibility='hidden'>View this lesson on Learn.co</a>
